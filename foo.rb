@@ -1,3 +1,1 @@
 GITHUB_TOKEN = '5d886f9b0f5e51a366ec3fd244a784b9a9c0a9e4'
-GOOGLE_TOKEN = 'AIzaSyA_tKbW6A5pQ-eupxI56myUnHLqYCzOjKo'
-Stripe_key = 'sk_live_X1TNk0TC17W4zKWBnbnaXxAa'
