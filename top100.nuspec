@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>sample</id> 
+    <version>1.0.0</version>
+    <authors>GitHub</authors>
+<dependencies>
+   <dependency id="Newtonsoft.Json" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="jQuery" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Web.Infrastructure" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="EntityFramework" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.Razor" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.WebPages" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.Mvc" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Modernizr" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="WebGrease" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.Web.Optimization" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="bootstrap" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.CodeDom.Providers.DotNetCompilerPlatform" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Net.Compilers" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="jQuery.Validation" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Antlr" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.jQuery.Unobtrusive.Validation" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Respond" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.WebApi.Client" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.WebApi.Core" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.WebApi.WebHost" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.WebApi" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Owin" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Owin" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Owin.Host.SystemWeb" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Owin.Security" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.Identity.Core" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Owin.Security.OAuth" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Owin.Security.Cookies" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.ApplicationInsights" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.ApplicationInsights.Web" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.ApplicationInsights.Agent.Intercept" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.ApplicationInsights.DependencyCollector" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.ApplicationInsights.PerfCounterCollector" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.Identity.Owin" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.ApplicationInsights.WindowsServer" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.Identity.EntityFramework" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Owin.Security.Google" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Owin.Security.Facebook" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Owin.Security.Twitter" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Owin.Security.MicrosoftAccount" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="NUnit" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Net.Http" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNetCore.All" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="jQuery.UI.Combined" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.WebApi.HelpPage" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="xunit" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="MSTest.TestFramework" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="MSTest.TestAdapter" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.jQuery.Unobtrusive.Ajax" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.NET.Test.Sdk" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Moq" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.VisualStudio.Web.CodeGeneration.Design" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="knockoutjs" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.ApplicationInsights.JavaScript" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Xamarin.Android.Support.v4" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="AutoMapper" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Xamarin.Forms" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Xamarin.Android.Support.v7.AppCompat" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="xunit.runner.visualstudio" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Xamarin.Android.Support.Design" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.Providers.Core" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="System.Spatial" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Data.Edm" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.WebApi.Owin" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Data.OData" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Xamarin.Android.Support.v7.CardView" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Xamarin.Android.Support.v7.MediaRouter" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="log4net" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNetCore.Mvc" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Bcl.Build" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Bcl" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="WebActivatorEx" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Autofac" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.Mvc.FixedDisplayModes" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNetCore" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="CommonServiceLocator" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Castle.Core" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.EntityFrameworkCore.Tools" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="System.Net.Http" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="System.Diagnostics.DiagnosticSource" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Ninject" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="System.Linq" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="System.Runtime" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.Cors" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNetCore.StaticFiles" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="System.Runtime.Extensions" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="System.Collections" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="System.Threading" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Xamarin.Android.Support.v7.RecyclerView" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Xamarin.Android.Support.Vector.Drawable" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Xamarin.Android.Support.Animated.Vector.Drawable" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="System.Diagnostics.Debug" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="System.Reflection" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.Extensions.Logging.Debug" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="Microsoft.AspNet.Providers.LocalDb" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="DotNetOpenAuth.Core" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="System.Globalization" version="1.0"/><dependency id="" version="1.0"/>
+<dependency id="System.Resources.ResourceManager" version="1.0"/><dependency id="" version="1.0"/>
+    </dependencies>
+  </metadata>
+</package>
