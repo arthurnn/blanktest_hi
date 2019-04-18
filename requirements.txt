@@ -1,1 +1,1 @@
-django==43.0.0
+ansible==2.7.7
