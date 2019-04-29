@@ -48,7 +48,7 @@ GEM
     builder (3.2.3)
     concurrent-ruby (1.0.5)
     crass (1.0.4)
-    easymon (1.4)
+    easymon (1.4.2)
       redis
     erubi (1.7.1)
     globalid (0.4.1)
@@ -130,7 +130,7 @@ PLATFORMS
 DEPENDENCIES
   awesome_spawn (~> 1.1.0)
   blankblank
-  easymon (< 1.4.1)
+  easymon (< 1.4.3)
   loofah (= 2.2.3)
   puma
   rails
