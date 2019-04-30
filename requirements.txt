@@ -1,4 +1,4 @@
 ansible==2.7.7
 Jinja2==2.7.2
-apache-airflow==1.10.2
+apache-airflow==1.10.3
 mailman==2.1.27
