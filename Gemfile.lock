@@ -2,12 +2,16 @@ GEM
   remote: https://rubygems.org/
   specs:
     blankblank (0.0.13)
+    easymon (1.4)
+      redis
+    redis (4.1.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   blankblank
+  easymon (< 1.4.1)
 
 BUNDLED WITH
    1.16.2
