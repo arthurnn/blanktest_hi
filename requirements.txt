@@ -1,2 +1,2 @@
-urllib3 == 1.24.1
+urllib3 == 1.26.5
 python-dbusmock == 0.15.0
