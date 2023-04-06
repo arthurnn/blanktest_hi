@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    awesome_spawn (1.1.1)
+    awesome_spawn (1.2.0)
     blankblank (0.0.13)
     charlock_holmes (0.7.6)
     crass (1.0.4)
@@ -70,7 +70,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  awesome_spawn (~> 1.1.0)
+  awesome_spawn (~> 1.2.0)
   blankblank
   easymon (< 1.4.1)
   gollum (< 4.0.1)
